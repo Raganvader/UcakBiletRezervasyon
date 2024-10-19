@@ -1,2 +1,2 @@
 # UcakBiletRezervasyon
-A simple flight ticket reservation system built using C# and Windows Forms
+C# ve Windows Forms kullanılarak oluşturulmuş basit bir uçak bileti rezervasyon sistemi
